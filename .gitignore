@@ -35,6 +35,8 @@ project/Application/*
 /History
 /_Previews
 /_Previews/*
+*.PcbDocPreview
+*.SchDocPreview
 *.PcbLib.Zip
 *.SchDoc.Zip
 *.PcbDoc.Zip
