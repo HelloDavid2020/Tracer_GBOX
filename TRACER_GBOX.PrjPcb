@@ -310,6 +310,10 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=LRLJIEWI
 
+[GeneratedDocument1]
+DocumentPath=Project Outputs for G-BOX_V100\Design Rule Check - TRACER_GBOX.html
+DItemRevisionGUID=
+
 [Configuration1]
 Name=Default Configuration
 ParameterCount=0
